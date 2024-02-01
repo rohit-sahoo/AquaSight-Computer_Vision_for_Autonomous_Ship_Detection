@@ -1,4 +1,4 @@
-# AquaSight: Automated Ship Detection in Aerial Imagery
+# AquaSight: Computer Vision for Autonomous Ship Detection
 
 AquaSight is a cutting-edge computer vision application designed to automate the detection and analysis of ships within aerial and satellite imagery. By leveraging the power of the YOLOv8 algorithm, AquaSight aims to provide high-precision insights for maritime surveillance, traffic management, and environmental monitoring.
 
