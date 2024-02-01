@@ -1,0 +1,7 @@
+# config.yaml
+model_name: yolov8x.pt
+epochs: 20
+batch_size: 8
+workers: 4
+seed: 42
+dataset_path: ../ships-aerial-images
